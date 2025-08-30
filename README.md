@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Pursuing B.E. in IT from UIT BU'28<br>📚 I'm currently learning DSA and Framework<br>🎯 Goals : Delivering Innovation to the Tech World<br>🎲 Hackathon Exp : Participate in Brain Battle S2 and HACKODISHA 5.0 Hackathon</p>
+<p align="left">✨ Pursuing B.E. in IT from UIT BU'28<br>📚 I'm currently learning DSA and Framework<br>🎯 Goals : Delivering Innovation to the Tech World<br>🎲 Hackathon Exp : Participate in SIH'24 , Adobe India Hackathon'25 , HACKODISHA 5.0 and Brain Battle S2 </p>
 
 ###
 
