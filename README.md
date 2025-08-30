@@ -1,6 +1,6 @@
 
 ### 
-<!<h1 align="center">Hi 👋, I'm Suvam Chatterjee</h1>
+<h1 align="center">Hi 👋, I'm Suvam Chatterjee</h1>
 <h3 align="center">A passionate Full Stack Software Developer from India</h3>
 <h2 align="left">About me</h2>
 
